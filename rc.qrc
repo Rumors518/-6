@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>image/1.png</file>
+        <file>image/background.png</file>
+        <file>image/bad.png</file>
+        <file>image/bomb.png</file>
+        <file>image/flag.png</file>
+        <file>image/good.png</file>
+        <file>image/ing.png</file>
+        <file>image/item1.bmp</file>
+        <file>image/item3.bmp</file>
+        <file>image/item4.bmp</file>
+        <file>image/lose.png</file>
+        <file>image/number.bmp</file>
+        <file>image/win.png</file>
+        <file>image/welcome.png</file>
+        <file>image/恋爱循环.wav</file>
+    </qresource>
+</RCC>
